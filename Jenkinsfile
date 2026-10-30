@@ -3,8 +3,8 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS = 'dockerhub-credentials'
-        DOCKERHUB_USERNAME = 'atharavatawde'
-        IMAGE_NAME = 'netflix-app'
+        DOCKERHUB_USERNAME = 'atharvtawde'
+        IMAGE_NAME = 'netflix'
         KUBECONFIG = '/var/lib/jenkins/.kube/config'
     }
 
