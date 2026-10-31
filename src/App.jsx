@@ -42,7 +42,7 @@ function App() {
         <section className="hero">
           <div className="hero-content">
             <p className="eyebrow">C I N E S T R E A M &nbsp; O R I G I N A L</p>
-            <h1>YOUR NEXT<br />OBSESSION.</h1>
+            <h1>YOUR NEXT<br />BINGE STARTS HERE.</h1>
             <p className="description">
               Discover unforgettable stories, legendary characters,
               and your next favourite adventure.
