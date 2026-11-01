@@ -41,7 +41,7 @@ function App() {
       <main id="home">
         <section className="hero">
           <div className="hero-content">
-            <p className="eyebrow">C I N E S T R E A M &nbsp; B O B </p>
+            <p className="eyebrow">C I N E S T R E A M &nbsp; P O P </p>
             <h1>YOUR NEXT<br />BINGE STARTS HERE.</h1>
             <p className="description">
               Discover unforgettable stories, legendary characters,
